@@ -1,0 +1,22 @@
+h2{
+    color: aquamarine; background-color: black;
+}
+#home{
+    color: brown; text-align: center;font-family: Arial, Helvetica, sans-serif;font-style: italic;
+}
+.right{
+    text-align: right; color: rebeccapurple;
+}
+p.left{color: palevioletred; text-align: right; font-style: oblique;
+    
+}
+*{
+    border:1px solid coral;
+}
+a[target]{
+    color:purple;
+}
+a[target="_parent"]
+{
+    background-color: aquamarine;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: rosybrown;
+    background-image: url(sunset.png);
+}
+h1{
+    color: blueviolet;
+    border-bottom: 2px dotted rgb(95, 95, 243);
+    width:40%;
+    margin:auto;
+    text-align: center;
+}
+div.a1{
+    font-size: xx-large;
+    color:olivedrab;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+
+}
+div.a2{
+    font-size: 5dvh;
+    color: rgb(45, 172, 246);
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+div.a3{
+    font-size: 30px;
+    color: purple;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: initial;
+    
+}
+button{
+    width:90px;
+    height: 40px;
+    color: rgb(64, 23, 228);
+    font-family: Arial, Helvetica, sans-serif;
+}
